@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clash Verge 静态 IP 链式代理"
+  short_description: "在 macOS 上部署并验证固定出口 IP 的双跳代理"
+  default_prompt: "Use $clash-verge-static-ip-chain to configure and verify my Clash Verge static-IP chain on macOS."
